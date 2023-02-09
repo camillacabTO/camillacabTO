@@ -1,16 +1,19 @@
 - 👋 Hi, I’m Camila
 - 👀 I’m interested in building applications with the MERN stack (MongoDB, Express, React and Node) & Firebase
 - 🌱 I’m currently learning Python, NextJS, and TypeScript
-- 💞️ I’m looking to collaborate on challenging Full Stack web application projects
+- 👯 I’m looking to collaborate on challenging Full Stack web application projects
 - 📫 How to reach me: camillacab@hotmail.com
 
-<center>
 
 💻 Please refer to my repositories to see some of my work and skills.
 
 [![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camillacabto&theme=radical&show_icons=true)](https://github.com/camillacabto/github-readme-stats)
 
-##Tech Stack / Skills
+<div align="center">
+
+<h2>Tech Stack / Skills</h2>
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,6 +38,5 @@
 ![image](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
 
-</center>
-
+</div>
 
