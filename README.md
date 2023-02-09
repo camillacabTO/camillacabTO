@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h3>💻 Please refer to my repositories to see some of my work and skills</h3>
+<h5>💻 Please refer to my repositories to see some of my work and skills</h5>
 
 [![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camillacabto&theme=radical&show_icons=true)](https://github.com/camillacabto/github-readme-stats)
 
