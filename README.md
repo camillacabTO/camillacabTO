@@ -4,6 +4,8 @@
 - 👯 I’m looking to collaborate on challenging Full Stack web application projects
 - 📫 How to reach me: camillacab@hotmail.com
 
+<br><br>
+
 <div align="center">
 
 <h4>💻 Please refer to my repositories to see some of my work and skills</h4>
