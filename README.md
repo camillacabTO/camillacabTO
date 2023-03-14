@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Camila
-- 👀 I’m interested in building applications with the MERN stack (MongoDB, Express, React and Node) & Firebase
-- 🌱 I’m currently learning Tailwind CSS, NextJS, and TypeScript
-- 👯 I’m looking to collaborate on challenging React & NextJS web application projects
+- 👀 I’m interested in building web applications with React / NextJS and the MERN stack (MongoDB, Express, React and Node) & Firebase
+- 🌱 I’m currently learning Tailwind CSS and NextJS 13
 - 📫 How to reach me: camillacab@hotmail.com
 
 <div align="center">
