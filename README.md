@@ -2,15 +2,15 @@
 - 👀 I’m interested in building web applications with NextJS and the MERN stack (MongoDB, Express, React and Node) & Firebase
 - 🌱 I’m currently learning Tailwind CSS and NextJS 13
 - 📫 How to reach me: camillacab@hotmail.com
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/camilacab/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="http://camilabarros.ca/">
   <img src="https://img.shields.io/badge/CV/Resume-darkgreen?style=for-the-badge&logo=cv/resume&logoColor=white" alt="CV/Resume Badge"/>
 </a>
-
-
-<div align="center">
 
 <h4>💻 Please refer to my repositories to see some of my work and skills</h4>
 
