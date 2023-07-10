@@ -17,6 +17,8 @@
 
 [![Camila's GitHub stats](https://stats-card-ten.vercel.app/api?username=camillacabto&theme=radical&show_icons=true)](https://github.com/camillacabto/github-readme-stats)
 
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=camillacabTO&theme=radical&line_height=40&hide=css"/> </a>
+
 <h2>Tech Stack / Skills</h2>
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
