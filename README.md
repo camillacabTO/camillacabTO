@@ -15,7 +15,7 @@
 
 <h4>💻 Please refer to my repositories to see some of my work and skills</h4>
 
-[![Camila's GitHub stats](https:/stats-card-mh8i91gov-camillacabto.vercel.app/api?username=camillacabto&theme=radical&show_icons=true)](https://github.com/camillacabto/github-readme-stats)
+[![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camillacabto&theme=radical&show_icons=true)](https://github.com/camillacabto/github-readme-stats)
 
 <h2>Tech Stack / Skills</h2>
 
