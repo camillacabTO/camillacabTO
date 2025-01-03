@@ -6,16 +6,16 @@
 
 <div align="center">
 
+<h4>💻 Please refer to my repositories to see some of my work and skills</h4>
+<br>
+
 <a href="https://www.linkedin.com/in/camilacab/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="http://camilabarros.ca/">
-  <img src="https://img.shields.io/badge/CV/Resume-darkgreen?style=for-the-badge&logo=cv/resume&logoColor=white" alt="CV/Resume Badge"/>
+  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
 </a>
 
-<h4>💻 Please refer to my repositories to see some of my work and skills</h4>
-
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=camillacabTO&theme=radical&line_height=40&hide=css"/> </a>
 
 <h2>Tech Stack / Skills</h2>
 
@@ -38,11 +38,14 @@
 ![image](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-<br><br><br>
+<br><br>
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![image](https://img.shields.io/badge/Java-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![image](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
