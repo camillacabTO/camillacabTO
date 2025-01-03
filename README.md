@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Camila
 - 👀 I’m interested in building web applications with NextJS and the MERN stack (MongoDB, Express, React and Node)
-- 🌱 I’m currently learning Machine Learning and C# .NET
+- 🌱 I’m currently learning C# & ASP.NET Core
 - 🤝 I love meeting new people and networking
 - 📫 How to reach me: camillacab@hotmail.com
 
